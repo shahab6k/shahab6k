@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahab6k
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Cloud Computing specialist
+- 🌱 I’m currently learning Microsoft Certification
+- 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me ...
 
 <!---
